@@ -1,6 +1,9 @@
 # Completed Java Exercises from Exercism
 
 # Concepts
+Arrays - Bird Watcher: You track of how many birds have visited your garden in the last seven days.
+https://exercism.org/tracks/java/exercises/bird-watcher
+
 Booleans - Annalyns Infiltration: Determine actions based on the state of three characters found and whether Annalyn's pet dog is present.
 https://exercism.org/tracks/java/exercises/annalyns-infiltration
 
