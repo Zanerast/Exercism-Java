@@ -7,6 +7,9 @@ https://exercism.org/tracks/java/exercises/bird-watcher
 Booleans - Annalyns Infiltration: Determine actions based on the state of three characters found and whether Annalyn's pet dog is present.
 https://exercism.org/tracks/java/exercises/annalyns-infiltration
 
+Chars - Squeaky Clean: Implement a partial set of utility routines to help a developer clean up SqueakyClean names.
+https://exercism.org/tracks/java/exercises/squeaky-clean
+
 Conditions - Blackjack: Simulate a strategy for the first turn of a Blackjack game.
 https://exercism.org/tracks/java/exercises/blackjack
 

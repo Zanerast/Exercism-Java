@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="concepts.SqueakyCleanTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-10-29T09:29:26" hostname="LAPTOP-CEEK0J9S" time="0.043">
+  <properties/>
+  <testcase name="omit_lower_case_greek_letters" classname="concepts.SqueakyCleanTest" time="0.041"/>
+  <testcase name="spaces" classname="concepts.SqueakyCleanTest" time="0.0"/>
+  <testcase name="string" classname="concepts.SqueakyCleanTest" time="0.0"/>
+  <testcase name="string_with_no_letters" classname="concepts.SqueakyCleanTest" time="0.0"/>
+  <testcase name="ctrl" classname="concepts.SqueakyCleanTest" time="0.0"/>
+  <testcase name="empty" classname="concepts.SqueakyCleanTest" time="0.001"/>
+  <testcase name="leading_and_trailing_spaces" classname="concepts.SqueakyCleanTest" time="0.0"/>
+  <testcase name="combine_conversions" classname="concepts.SqueakyCleanTest" time="0.0"/>
+  <testcase name="kebab_to_camel_case" classname="concepts.SqueakyCleanTest" time="0.0"/>
+  <testcase name="single_letter" classname="concepts.SqueakyCleanTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
