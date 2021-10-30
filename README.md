@@ -15,3 +15,6 @@ https://exercism.org/tracks/java/exercises/blackjack
 
 Numbers - Cars, Assemble: Write code to analyze the production of an assembly line in a car factory. 
 https://exercism.org/tracks/java/exercises/cars-assemble
+
+Ternary Operators - Salary Calculator: Calculating the total salary of a employee in a month
+https://exercism.org/tracks/java/exercises/salary-calculator

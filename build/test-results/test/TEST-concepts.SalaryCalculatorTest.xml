@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="concepts.SalaryCalculatorTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-10-30T07:22:15" hostname="LAPTOP-CEEK0J9S" time="0.048">
+  <properties/>
+  <testcase name="soldAboveThreshold" classname="concepts.SalaryCalculatorTest" time="0.046"/>
+  <testcase name="skippedBelowThresholdAndSoldAboveThreshold" classname="concepts.SalaryCalculatorTest" time="0.0"/>
+  <testcase name="salaryRespectMaximum" classname="concepts.SalaryCalculatorTest" time="0.0"/>
+  <testcase name="regularSalary" classname="concepts.SalaryCalculatorTest" time="0.001"/>
+  <testcase name="salaryCanReachCloseToMaximum" classname="concepts.SalaryCalculatorTest" time="0.0"/>
+  <testcase name="skippedAboveThresholdAndSoldBelowThreshold" classname="concepts.SalaryCalculatorTest" time="0.0"/>
+  <testcase name="skippedBelowThreshold" classname="concepts.SalaryCalculatorTest" time="0.0"/>
+  <testcase name="skippedAboveThresholdAndSoldAboveThreshold" classname="concepts.SalaryCalculatorTest" time="0.0"/>
+  <testcase name="skippedAboveThreshold" classname="concepts.SalaryCalculatorTest" time="0.0"/>
+  <testcase name="soldBelowThreshold" classname="concepts.SalaryCalculatorTest" time="0.001"/>
+  <testcase name="skippedBelowThresholdAndSoldBelowThreshold" classname="concepts.SalaryCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
