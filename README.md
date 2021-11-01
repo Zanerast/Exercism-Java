@@ -18,3 +18,7 @@ https://exercism.org/tracks/java/exercises/cars-assemble
 
 Ternary Operators - Salary Calculator: Calculating the total salary of a employee in a month
 https://exercism.org/tracks/java/exercises/salary-calculator
+
+# Easy 
+Gigasecond: Given a moment, determine the moment that would be after a gigasecond has passed.
+https://exercism.org/tracks/java/exercises/gigasecond
