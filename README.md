@@ -20,5 +20,11 @@ Ternary Operators - Salary Calculator: Calculating the total salary of a employe
 https://exercism.org/tracks/java/exercises/salary-calculator
 
 # Easy 
+Difference of Square: Find the difference between the square of the sum and the sum of the squares of the first N natural numbers.
+https://exercism.org/tracks/java/exercises/difference-of-squares
+
 Gigasecond: Given a moment, determine the moment that would be after a gigasecond has passed.
 https://exercism.org/tracks/java/exercises/gigasecond
+
+Scrabble Score: Given a word, compute the Scrabble score for that word.
+https://exercism.org/tracks/java/exercises/scrabble-score
