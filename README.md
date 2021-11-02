@@ -26,5 +26,8 @@ https://exercism.org/tracks/java/exercises/difference-of-squares
 Gigasecond: Given a moment, determine the moment that would be after a gigasecond has passed.
 https://exercism.org/tracks/java/exercises/gigasecond
 
+Handshake Calculator: Given a decimal number, convert it to the appropriate sequence of events for a secret handshake.
+https://exercism.org/tracks/java/exercises/secret-handshake
+
 Scrabble Score: Given a word, compute the Scrabble score for that word.
 https://exercism.org/tracks/java/exercises/scrabble-score
