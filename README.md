@@ -29,5 +29,8 @@ https://exercism.org/tracks/java/exercises/gigasecond
 Handshake Calculator: Given a decimal number, convert it to the appropriate sequence of events for a secret handshake.
 https://exercism.org/tracks/java/exercises/secret-handshake
 
+Matrix: Given a string representing a matrix of numbers, return the rows and columns of that matrix.
+https://exercism.org/tracks/java/exercises/matrix
+
 Scrabble Score: Given a word, compute the Scrabble score for that word.
 https://exercism.org/tracks/java/exercises/scrabble-score
