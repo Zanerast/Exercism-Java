@@ -36,5 +36,8 @@ https://exercism.org/tracks/java/exercises/scrabble-score
 Matrix: Given a string representing a matrix of numbers, return the rows and columns of that matrix.
 https://exercism.org/tracks/java/exercises/matrix
 
+RotationalCipher: Create an implementation of the rotational cipher, also sometimes called the Caesar cipher.
+https://exercism.org/tracks/java/exercises/rotational-cipher
+
 Triangle: Determine if a triangle is equilateral, isosceles, or scalene.
 https://exercism.org/tracks/java/exercises/triangle
