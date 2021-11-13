@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="medium.SaddleMatrixTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-11-13T23:52:32" hostname="LAPTOP-CEEK0J9S" time="0.019">
+  <properties/>
+  <testcase name="testCanIdentifyMultipleSaddlePointsInAColumn" classname="medium.SaddleMatrixTest" time="0.014"/>
+  <testcase name="testCanIdentifyThatEmptyMatrixHasNoSaddlePoints" classname="medium.SaddleMatrixTest" time="0.0"/>
+  <testcase name="testCanIdentifySaddlePointInBottomRightCorner" classname="medium.SaddleMatrixTest" time="0.0"/>
+  <testcase name="testCanIdentifyMultipleSaddlePointsInARow" classname="medium.SaddleMatrixTest" time="0.001"/>
+  <testcase name="testCanIdentifySaddlePointsInANonSquareMatrix" classname="medium.SaddleMatrixTest" time="0.001"/>
+  <testcase name="testCanIdentifyThatSaddlePointsInASingleRowMatrixAreThoseWithMaximumValue" classname="medium.SaddleMatrixTest" time="0.0"/>
+  <testcase name="testCanIdentifyLackOfSaddlePointsWhenThereAreNone" classname="medium.SaddleMatrixTest" time="0.001"/>
+  <testcase name="testCanIdentifySingleSaddlePoint" classname="medium.SaddleMatrixTest" time="0.001"/>
+  <testcase name="testCanIdentifyThatSaddlePointsInASingleColumnMatrixAreThoseWithMinimumValue" classname="medium.SaddleMatrixTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

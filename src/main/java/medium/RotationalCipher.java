@@ -1,6 +1,8 @@
 package medium;
 
 import java.util.function.BiFunction;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 class RotationalCipher {
 
