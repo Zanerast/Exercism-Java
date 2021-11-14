@@ -20,6 +20,9 @@ Ternary Operators - Salary Calculator: Calculating the total salary of a employe
 https://exercism.org/tracks/java/exercises/salary-calculator
 
 # Easy 
+Darts: Return the earned points in a single toss of a Darts game
+https://exercism.org/tracks/java/exercises/darts
+
 Difference of Square: Find the difference between the square of the sum and the sum of the squares of the first N natural numbers.
 https://exercism.org/tracks/java/exercises/difference-of-squares
 
@@ -33,11 +36,17 @@ Scrabble Score: Given a word, compute the Scrabble score for that word.
 https://exercism.org/tracks/java/exercises/scrabble-score
 
 # Medium
+Flatten Array: Take a nested list and return a single flattened list with all values except nil/null
+https://exercism.org/tracks/java/exercises/flatten-array
+
 Matrix: Given a string representing a matrix of numbers, return the rows and columns of that matrix.
 https://exercism.org/tracks/java/exercises/matrix
 
 RotationalCipher: Create an implementation of the rotational cipher, also sometimes called the Caesar cipher.
 https://exercism.org/tracks/java/exercises/rotational-cipher
+
+Saddle Points: Detect a Saddle point in a matrix
+https://exercism.org/tracks/java/exercises/saddle-points
 
 Triangle: Determine if a triangle is equilateral, isosceles, or scalene.
 https://exercism.org/tracks/java/exercises/triangle

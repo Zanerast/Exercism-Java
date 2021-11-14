@@ -1,3 +1,5 @@
+package easy;
+
 class Darts {
 
     private int score = 0;
