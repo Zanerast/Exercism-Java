@@ -50,3 +50,6 @@ https://exercism.org/tracks/java/exercises/saddle-points
 
 Triangle: Determine if a triangle is equilateral, isosceles, or scalene.
 https://exercism.org/tracks/java/exercises/triangle
+
+Word Count: Given a phrase, count the occurrences of each word in that phrase
+https://exercism.org/tracks/java/exercises/word-count
