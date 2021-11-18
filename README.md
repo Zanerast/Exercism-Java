@@ -26,6 +26,9 @@ https://exercism.org/tracks/java/exercises/darts
 Difference of Square: Find the difference between the square of the sum and the sum of the squares of the first N natural numbers.
 https://exercism.org/tracks/java/exercises/difference-of-squares
 
+D&D Character: Randomly generate Dungeons & Dragons characters
+https://exercism.org/tracks/java/exercises/dnd-character
+
 Gigasecond: Given a moment, determine the moment that would be after a gigasecond has passed.
 https://exercism.org/tracks/java/exercises/gigasecond
 

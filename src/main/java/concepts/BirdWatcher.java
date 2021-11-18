@@ -1,6 +1,9 @@
 package concepts;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
 
 // https://exercism.org/tracks/java/exercises/bird-watcher
 class BirdWatcher {
@@ -36,4 +39,5 @@ class BirdWatcher {
     public int getBusyDays() {
         return (int) Arrays.stream(birdsPerDay).filter(value -> value >= 5).count();
     }
+
 }

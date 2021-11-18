@@ -1,5 +1,8 @@
 package concepts;
 
+import java.util.Arrays;
+import java.util.stream.Collectors;
+
 class SqueakyClean {
     static String clean(String identifier) {
 
