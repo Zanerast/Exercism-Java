@@ -39,6 +39,9 @@ Scrabble Score: Given a word, compute the Scrabble score for that word.
 https://exercism.org/tracks/java/exercises/scrabble-score
 
 # Medium
+Binary Search: Implement a binary search algorithm.
+https://exercism.org/tracks/java/exercises/binary-search
+
 Flatten Array: Take a nested list and return a single flattened list with all values except nil/null
 https://exercism.org/tracks/java/exercises/flatten-array
 

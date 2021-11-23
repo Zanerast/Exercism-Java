@@ -10,6 +10,7 @@ class SqueakyClean {
         char[] chars = identifier.toCharArray();
 
         for (int i = 0; i < chars.length; i++) {
+            System.out.println(chars[i]);
             char character = chars[i];
             if (character == ' ') builder.append('_');
             else if (character == '\0') builder.append("CTRL");

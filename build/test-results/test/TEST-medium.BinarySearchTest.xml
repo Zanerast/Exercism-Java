@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="medium.BinarySearchTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-11-23T04:44:35" hostname="LAPTOP-CEEK0J9S" time="0.058">
+  <properties/>
+  <testcase name="identifiesThatAValueIsNotFoundInTheArray" classname="medium.BinarySearchTest" time="0.053"/>
+  <testcase name="nothingIsFoundWhenTheLeftAndRightBoundCross" classname="medium.BinarySearchTest" time="0.001"/>
+  <testcase name="findsAValueInAnArrayWithOneElement" classname="medium.BinarySearchTest" time="0.0"/>
+  <testcase name="aValueLargerThanTheArraysSmallestValueIsNotFound" classname="medium.BinarySearchTest" time="0.001"/>
+  <testcase name="findsAValueInAnArrayOfOddLength" classname="medium.BinarySearchTest" time="0.0"/>
+  <testcase name="findsAValueAtTheEndOfAnArray" classname="medium.BinarySearchTest" time="0.001"/>
+  <testcase name="aValueSmallerThanTheArraysSmallestValueIsNotFound" classname="medium.BinarySearchTest" time="0.0"/>
+  <testcase name="findsAValueInAnArrayOfEvenLength" classname="medium.BinarySearchTest" time="0.001"/>
+  <testcase name="findsAValueAtTheBeginningOfAnArray" classname="medium.BinarySearchTest" time="0.0"/>
+  <testcase name="nothingIsFoundInAnEmptyArray" classname="medium.BinarySearchTest" time="0.001"/>
+  <testcase name="findsAValueInTheMiddleOfAnArray" classname="medium.BinarySearchTest" time="0.0"/>
+  <system-out><![CDATA[424232288679800
+424232340599900
+424232341265100
+424232341332600
+424232341665300
+424232342343700
+424232342438300
+424232342752600
+424232342872700
+424232343147300
+424232343752700
+424232343833700
+424232344069400
+424232344145100
+424232344489000
+424232345171600
+424232345316700
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
